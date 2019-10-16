@@ -59,3 +59,8 @@ Import this flow (or add it manually by creating a simple [inject] > [file funct
 ```
 
 Deploy the changes and click the inject node - check the output in the debug sidebar!
+
+## Credits
+
+The orignal author was [Emil Öberg](https://github.com/emiloberg/node-red-contrib-file-function) and most of the credit should go to him and the node red team.
+ 
